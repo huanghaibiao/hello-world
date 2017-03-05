@@ -1,6 +1,6 @@
 <?php
 class myclass{
 	function myfunction(){
-		echo 'function';
+		echo 'branch-function';
 	}
 }
